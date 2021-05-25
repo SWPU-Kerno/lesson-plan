@@ -9,7 +9,7 @@
 ### 通识
 * [终端工具与Shell指令](./terminal-shell/README.md)
 * 版本控制Git+Github
-* markdown
+* [markdown](./markdown/README.md)
 * 常用开发工具介绍（语言相关/语言无关）
 * ...敬请期待
 
