@@ -158,3 +158,15 @@ st->op->cond
 cond(yes)->e
 cond(no)->op
 ```
+
+# HTML
+>可以直接写HTML
+
+<p style="color:red">红色</p>
+
+<center><a href="https://www.baidu.com">居中链接(百度)</a></center>
+```html
+<p style="color:red">红色</p>
+
+<center><a href="https://www.baidu.com">居中链接(百度)</a></center>
+```
