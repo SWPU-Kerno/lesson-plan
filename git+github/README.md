@@ -205,7 +205,7 @@ git pull originName remoteBranch：LocalBranch
 
 ## Fork
 ## PR
->pull request
+Pull Request
 
 ## Code Review
 
