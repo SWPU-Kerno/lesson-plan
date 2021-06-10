@@ -113,9 +113,9 @@ git checkout -- filename
 
 ## 版本回退
 ```sh
+# 变动内容会回到暂存区
 git reset HEAD^
 
-# 变动内容回到暂存区
 git reset --hard HEAD^
 ```
 
