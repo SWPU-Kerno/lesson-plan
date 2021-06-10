@@ -204,8 +204,7 @@ git pull originName remoteBranch：LocalBranch
 以GitHub为例
 
 ## Fork
-## PR
->pull request
+## Pull Request
 
 ## Code Review
 
