@@ -1,4 +1,7 @@
 # Git
+## 学习资料
+* [在线练习Git使用](https://learngitbranching.js.org/?locale=zh_CN)
+* [廖雪峰：史上最浅显易懂的Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 ## 简介
 >Git是目前世界上最先进的分布式版本控制系统（没有之一）。
 
@@ -124,9 +127,6 @@ git reset --hard HEAD^
 ```sh
 git reset --hard commitId
 ```
-## 学习资料
-* [在线练习Git使用](https://learngitbranching.js.org/?locale=zh_CN)
-* [廖雪峰：史上最浅显易懂的Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 
 # Git分支
 多人协同，离不开分支的支持
@@ -210,6 +210,11 @@ git pull originName remoteBranch：LocalBranch
 ## Code Review
 
 ## Merge PullRequest
+
+
+# 自行探索学习内容
+* git stash
+* git tag
 
 # 练习
 * 提交PR
